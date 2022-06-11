@@ -4,7 +4,7 @@
 
 🎮 I like to play videogames some of my favourites are the Portal and the Half-Life series.
 
-👨‍🔧 I'm one of the people behind ZryteZene, and the developer of the "famous" Splsh browser.
+👨‍🔧 I'm one of the people behind [ZryteZene](https://zrytezene.com/), and the developer of [the "famous" Splsh browser](https://github.com/thatcakepiece/Splsh).
 
 👀 Currently working on my website and a secret project.
 

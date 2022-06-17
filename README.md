@@ -8,6 +8,6 @@
 
 👀 Currently working on my website and a secret project.
 
-🫂 My friends like to call me a TCP Protocol.
+👥 My friends like to call me a TCP Protocol.
 
 [My website ↗](https://thatcakepiece.github.io/)

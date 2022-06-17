@@ -1,5 +1,5 @@
-# About me
-
+<img src="text.svg" alt="about me" width="105" height="45>
+<br>                                                   
 📷 🖥 I'm doing Photography and Coding as a hobby.
 
 🎮 I like to play videogames some of my favourites are the Portal and the Half-Life series.

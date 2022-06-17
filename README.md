@@ -1,4 +1,4 @@
-<img src="text.svg" alt="about me" width="105" height="45>
+<img src="https://raw.githubusercontent.com/thatcakepiece/thatcakepiece/ad1eabaed0fe87fa4aa1f07a27ab20daf4bd18dd/media/p.svg" alt="about me" width="105" height="45>
 <br>                                                   
 📷 🖥 I'm doing Photography and Coding as a hobby.
 

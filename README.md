@@ -8,7 +8,7 @@
                                                    
 📷 🖥 I'm doing Photography and Coding as a hobby.
 
-🎮 I like to play videogames some of my favourites are the Portal and the Half-Life series.
+🎮 I like to play videogames.
 
 👨‍🔧 I'm one of the people behind [ZryteZene](https://zrytezene.com/), and the developer of [the "famous" Splsh browser](https://github.com/thatcakepiece/Splsh).
 
